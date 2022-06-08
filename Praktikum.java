@@ -1,3 +1,5 @@
-public static void main(String[] args) {
-	System.out.println("привет мир!");
+public class Converter{
+	public static void main(String[] args) {
+		System.out.println("привет мир!");
+	}
 }
